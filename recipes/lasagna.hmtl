@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easy Bake Lasagna</title>
+</head>
+<body>
+    <h1>This is a lasagna recipe page!</h1>
+    <br>
+    <img src="lasagna.jpeg">
+    <h3>Ingredients:</h3>
+    <ul>
+        <li>Lasagna sheets</li>
+        <li>Extra virgin olive oil</li>
+        <li>Meat</li>
+        <li>Tomato paste</li>
+        <li>Cream sauce</li>
+        <li>Garlic</li>
+    </ul>
+    <br>
+    <h3>Method:</h3>
+    <ol>
+        <li>Boil Pasta sheets</li>
+        <li>Brown Ground Beef</li>
+        <li>Make the sauce</li>
+        <li>Assemble Lasagna</li>
+        <li>Bake</li>
+        <li>Cool and serve!</li>
+    </ol>
+    <br>
+    <a href="https://www.spendwithpennies.com/easy-homemade-lasagna/">Inspiration</a>
+    <a href="../index.hmtl">Home</a>
+</body>
+</html>
